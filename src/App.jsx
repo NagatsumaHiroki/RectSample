@@ -3,10 +3,6 @@ import Colorfull from "./components/Colorfull";
 
 const App = () => {
   const onClickButton = () => alert();
-  const contetStyle = {
-    color: "blue",
-    fontSize: "18px"
-  };
   const contetLedyStyle = {
     color: "pink",
     fontSize: "18px"
